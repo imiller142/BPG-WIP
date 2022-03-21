@@ -1,0 +1,22 @@
+{
+  "name": "bpg-wip",
+  "version": "1.0.0",
+  "description": "This is a website for Blue Phoenix Gaming currently a WIP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imiller142/BPG-WIP.git"
+  },
+  "author": "Ian Miller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imiller142/BPG-WIP/issues"
+  },
+  "homepage": "https://github.com/imiller142/BPG-WIP#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
